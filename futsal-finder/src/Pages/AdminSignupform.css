@@ -1,0 +1,55 @@
+/* AdminSignupForm.css */
+
+.admin-signup-container {
+    width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .admin-signup-heading {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .admin-signup-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .admin-signup-input {
+    margin-bottom: 15px;
+  }
+  
+  .admin-signup-input label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .admin-signup-input input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .admin-signup-button {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .admin-signup-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .admin-signup-button:active {
+    background-color: #003d80;
+  }
+  

@@ -1,0 +1,74 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+ background-image: url(test4.webp);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.login-heading {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.login-form {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: rgb(128, 167, 167);
+ 
+}
+
+.login-input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.login-input label {
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.login-input input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.login-type {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.login-button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: #0056b3;
+}
+.signup{padding: 10px 20px;
+  background-color: #7e9f88;
+  color:white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+
+}
+.signup:hover{
+  background-color: aquamarine;
+}
+.new-account{
+  color: red;
+}

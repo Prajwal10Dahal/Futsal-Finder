@@ -1,0 +1,17 @@
+.nav-link:hover{
+    background-color: aqua;
+    border-radius: 10px;
+    opacity: 0.5;
+}
+.nav-link{
+    color: rgb(28, 34, 34);
+}
+.navbar-brand{
+    outline-style: calc();
+    outline-color: #b5c5c9;
+ 
+}
+.finder-logo{
+    width: 40px;
+    border-radius: 50%;
+}

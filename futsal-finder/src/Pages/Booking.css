@@ -1,0 +1,63 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color:#bbc2c4;
+  }
+  
+  .app-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #0b1a1e;
+  }
+  
+  .booking-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .booking-form label {
+    margin-bottom: 10px;
+  }
+  
+  .booking-button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .booking-button:hover {
+    background-color: #218838;
+  }
+  
+  .available-futsals {
+    margin-top: 30px;
+  }
+  
+  .available-futsals-heading {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .futsal-card {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f8f8f8;
+  }
+  
+  .futsal-card h4 {
+    margin-bottom: 5px;
+  }
+  
+  .futsal-card p {
+    margin-bottom: 5px;
+    color: #777;
+  }
+  

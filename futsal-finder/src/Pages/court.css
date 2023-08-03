@@ -1,0 +1,37 @@
+.futsal-court-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #e3edef;
+  }
+  
+  .futsal-court-details {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .futsal-court-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .futsal-court-photo {
+    width: 350px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .futsal-court-description {
+    margin-bottom: 10px;
+  }
+  
+  .futsal-court-map {
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+  }
+  
